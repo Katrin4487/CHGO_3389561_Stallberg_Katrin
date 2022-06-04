@@ -1,0 +1,28 @@
+ 88 375 L
+650 221 R
+289 540 B
+345  90 T
+132 452
+168 402
+565 254
+184 348
+476 434
+216 321
+226 469
+617 306
+228 195
+452 219
+241 351
+488 319
+264 246
+285 384
+298 291
+317 190
+462 486
+345 464
+361 195
+366 301
+385 425
+
+# Abbildung 1.3: Zur Konstruktion der konvexen Huelle (rot) der Punktmenge
+# wird zunaechst ihr Konturpolygon (gruen) bestimmt.
